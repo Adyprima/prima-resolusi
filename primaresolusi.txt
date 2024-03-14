@@ -2,6 +2,5 @@ Prima Resolusi
 1. Dukung MU terus 
 2. Jago pakai PHP 
 3. belajar data Analys
-4. selesaikan skripsi
-5. Kerja di petra
-6. Membuat Web pribadi
+4. Kerja di petra
+5. Membuat Web pribadi
